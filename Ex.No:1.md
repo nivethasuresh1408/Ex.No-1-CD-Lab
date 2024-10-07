@@ -23,6 +23,7 @@ ALGORITHM:
 8. Stop the program.
    
 PROGRAM:
+```
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
@@ -72,6 +73,7 @@ int main() {
     }
     return 0;
 }
+```
 OUTPUT:
 
 ![Screenshot 2024-10-07 155633](https://github.com/user-attachments/assets/b9141b32-25aa-4e8b-8caa-bee85b8a3c5d)
